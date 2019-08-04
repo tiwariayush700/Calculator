@@ -1,0 +1,76 @@
+.screen{
+
+    background-color: black;
+    height: 300px;
+    margin-top: 10%;
+    margin-right: 40%;
+    margin-left: 40%;
+    margin-bottom: 10%;
+    border: 4px solid red;
+    
+}
+#display{
+    font-size: 21px;
+    background-color: white;
+}
+
+.buttons{
+    text-align:center;
+    
+}
+#add{
+
+    font-size:30px;
+}
+#subtract{
+
+    font-size:30px;
+}
+#multiply{
+
+    font-size:30px;
+}
+#divide{
+
+    font-size:30px;
+}
+#one{
+
+    font-size:30px;
+}
+#two{
+
+    font-size:30px;
+}
+#three{
+
+    font-size:30px;
+}
+#four{
+
+    font-size:30px;
+}
+#five{
+
+    font-size:30px;
+}
+#six{
+
+    font-size:30px;
+}
+#seven{
+
+    font-size:30px;
+}
+#eight{
+
+    font-size:30px;
+}
+#nine{
+
+    font-size:30px;
+}
+#zero{
+
+    font-size:30px;
+}
